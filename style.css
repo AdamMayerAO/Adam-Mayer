@@ -20,7 +20,7 @@ h2{
   border: 2;
   margin-top: 0px;
   margin-bottom: 0px;
-  background-image: url("Adam.png");
+  background-image: url("Adam.png") no-repeat center center fixed;
 }
 .round{
   border-radius: 10%;
