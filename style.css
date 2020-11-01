@@ -21,6 +21,7 @@ h2{
   margin-top: 0px;
   margin-bottom: 0px;
   background-image: url("Adam.png") no-repeat center center fixed;
+  background-size: cover;
 }
 .round{
   border-radius: 10%;
